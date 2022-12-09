@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AbhishekHingmire
-- 👀 I’m interested in App Development
-- 🌱 I’m currently learning Flutter and Java
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Insta @abhi__hingmire
 
